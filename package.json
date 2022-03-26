@@ -10,5 +10,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nake89/mene.git"
+  },
+  "homepage": "https://github.com/nake89/mene#readme",
+  "bugs": { "url": "https://github.com/nake89/mene/issues" }
 }
