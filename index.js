@@ -17,7 +17,7 @@ if (!args[0]) {
       let start = `const ${moduleVarName} = require('${module}')`
       arr.push(start)
     }
-    fs.writeFileSync(`${args[0]}/index.js`, arr.join('\n'))
+    fs.writeFileSync(`${args[0]}/index.js`, arr.join('\n') + '\n')
   }
 }
 function camelize(str) {
