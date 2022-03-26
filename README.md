@@ -2,7 +2,7 @@
 
 Lau initializes your Node.js project. It creates a new directory, runs `npm init -y`, installs the dependicies, creates index.js, runs `git init`. It automatically includes your dependicies to index.js.
 
-Point being. _IT SAVES YOU TIME_. It is perfect for any project. Even the smallests temporary test projects benefit from version control and an intialized package.json. It also cd's to that new dir. _Again, IT SAVES TIME. Use it!_
+Point being. **IT SAVES YOU TIME**. It is perfect for any project. Even the smallests temporary test projects benefit from version control and an intialized package.json. It also cd's to that new dir. **Again, IT SAVES TIME. Use it!**
 
 Let's create an app called my-app and import dependencies phin and magic-string.
 
