@@ -18,7 +18,6 @@ if (!args[0]) {
       arr.push(start)
     }
     fs.writeFileSync(`${args[0]}/index.js`, arr.join('\n'))
-    //exec(`cd ${args[0]}; touch index.js`)
   }
 }
 function camelize(str) {
