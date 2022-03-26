@@ -14,3 +14,9 @@ const magicString = require('magic-string')
 ```
 
 As you can see, git has been initialized, you are in your project folder and ready to code.
+
+## Installation
+
+```
+npm install -g mene
+```
